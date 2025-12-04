@@ -5,7 +5,7 @@ export const venues = [
     description: 'Upstairs conference room with a wooden theme',
     capacity: 100,
     pricePerHour: 1000,
-    imageUrl: "https://github.com/Makobelat/kgalala-palace-main-back-up-two/blob/106af4faccb063ac07edb2988c0d81be9791377f/src/assets/KPimages/wood.jpg",
+    imageUrl: "/src/assets/KPimages/wood.jpg",
     amenities: ['Professional Sound System', 'LED Screens', 'Banquet Setup']
   },
   {
