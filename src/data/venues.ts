@@ -5,7 +5,7 @@ export const venues = [
     description: 'Upstairs conference room with a wooden theme',
     capacity: 100,
     pricePerHour: 1000,
-    imageUrl: 'src/assets/KPimages/wood.jpg',
+    imageUrl: '/assets/KPimages/wood.jpg',
     amenities: ['Professional Sound System', 'LED Screens', 'Banquet Setup']
   },
   {
